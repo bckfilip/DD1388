@@ -10,7 +10,5 @@ If a value greater than zero is passed as the second argument (count), "Hello, "
 
 The output shall end with an exclamation mark, followed by a new-line.
 
-Note: hello ("KTH", 3) shall print Hello, KTH KTH KTH! (see sample invocations of an example program below) -
-
 Correct output from your program shall be printed through std::cout, whereas potential error diagnostics (detected by parse_args) shall be printed through std::cerr.
 
